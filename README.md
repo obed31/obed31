@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @obed31
-- 👀 I’m interested in AWS, Odoo ERP &  Project Management
-- 🌱 I’m currently learning AWS, Odoo ERP &  Project Management
-- 💞️ I’m looking to collaborate on GP
-- 📫 How to reach me obed.hcl@gmail.com
+🚀 Cloud | ERP | Project Management
+💡 Passionate about AWS, Odoo ERP, and Project Management. I thrive on designing scalable cloud solutions, optimizing business workflows with ERP, and managing projects efficiently.
 
-<!---
-obed31/obed31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📚 Currently Learning: AWS, Odoo ERP, and Advanced Project Management strategies.
+
+🤝 Looking to Collaborate On:
+
+AWS cloud architecture and automation
+Odoo ERP customization and development
+Project management best practices
+📬 Let's Connect:
+📩 Email: obed.hcl@gmail.com
+🔗 GitHub: github.com/obed31
